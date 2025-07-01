@@ -1,4 +1,4 @@
-# 📘 Estudos Básicos de Java
+# 📘 Estudos de Java
 
 Este repositório tem como objetivo reunir códigos, anotações e exemplos práticos para auxiliar no aprendizado dos fundamentos da linguagem Java.
 
